@@ -27,3 +27,8 @@
 7. Case when statement
 8. case When with aggregate functions
 9. joins
+
+### Class 4
+1. window function: LAG | LEAD | RANK | ROW NUMBER | DENSE RANK|
+2. Partition in window
+3. offset in window function
