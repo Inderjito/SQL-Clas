@@ -17,4 +17,13 @@
 10. Between
 11. Distinct
 
-   
+### Class 3
+1. null condition
+2. Aggregate function
+3. Date function
+4. Concat Function
+5. Group by
+6. Having clause
+7. Case when statement
+8. case When with aggregate functions
+9. joins
